@@ -1,0 +1,37 @@
+{
+  "Education": [
+    "1. Little Angels High School - Secondary School",
+    "2. Kiddies Corner Senior Secondary School - Senior Secondary",
+    "3. JECRC University - BTech CSE"
+  ],
+  "Past Experience": [
+    "1. Stanford Research Scholar ",
+    "2. LinkedIn Campus Editor",
+    "3. Unity Campus Ambassador ",
+    "4. Fraxus Solution Pvt. Ltd (Intern) ",
+    "5. Dream Ladder Builders Pvt Ltd (Intern)" ,
+    "6. Internshala Student Partner 8.0" ,
+    "7. Data Scientest - Freelancing" 
+  ],
+ 
+  "Tech Stack": ["C", "C++", "Python", "HTML/CSS", "Bootstrap", "Javascript", "Node.js", "Machine Learning"],
+ 
+  "Projects": ["1. Driver Fatigue Detection",
+               "2. Human Emotion Detection",
+               "3. Alisha Chatbot (alisha-chatbot.github.io/alishachatbot)",
+               "4. Camera Mouse Controller",                
+               "5. Automatic Whatsapp message sender",
+               " And many more"
+],
+  
+  "Skills" : ["Programming", "Public Speaking", "Presentation", "Writing"],
+  "Achievments" : ["1. Harvard Project For Asian and International Relations Delegate 2018",
+                   "2. Selected for MIT Bootcamp",
+                   "3. National level MUNNER",
+                   "4. Microsoft Azure Hackathon winner",
+                   "and many more"
+],
+  "Github" : ["www.github.com/infochirag"],
+  "Linkedin" : ["www.linkedin.com/in/chirag-gupta"], 
+  "Contact": ["Heychirag@outlook.com"]
+}
